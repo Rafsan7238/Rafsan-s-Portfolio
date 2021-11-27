@@ -664,7 +664,7 @@ button:hover{
 .testimonial {
   min-height: 375px;
   position: relative;
-  background: url(https://i.ibb.co/PTJDkgb/testimonials.jpg);
+  background: url(../img/testimonials.png);
   background-position: center;
   background-size: cover;
   text-align: justify;
