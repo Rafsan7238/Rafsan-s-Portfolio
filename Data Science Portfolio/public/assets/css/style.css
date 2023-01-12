@@ -472,6 +472,13 @@ button:hover{
   background-image: linear-gradient(90deg, #00172d, #0052a2)
 }
 
+@media screen and (max-width: 992px){
+  .skill-header h3{
+    margin-bottom: 5% !important;
+    margin-top: 5%;
+  }
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
